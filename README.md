@@ -1,6 +1,6 @@
 # SynerWorlds
 
-**15 board & puzzle games that run free in your browser — no install, no gambling, just play.**
+**A growing collection of board & puzzle games that run free in your browser — no install, no gambling, just play.**
 Chơi tại / Play at: **https://synerworlds.com**
 
 Song ngữ Việt–Anh · Chơi với máy 12 cấp độ · Mở phòng chơi cùng bạn bè · Miễn phí hoàn toàn
