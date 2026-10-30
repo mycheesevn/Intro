@@ -28,6 +28,8 @@ Song ngữ Việt–Anh · Chơi với máy 12 cấp độ · Mở phòng chơi 
 | ✖️ **Cờ Ca-rô** (Gomoku) | Nối 5 quân trên bàn ô ly 10×10, 15×15 và 20×20 | https://cocaro.synerworlds.com |
 | 🃏 **Cờ Úp** (Dark Xiangqi) | Cờ tướng úp kịch tính: quân úp chỉ lộ diện khi đi nước đầu tiên | https://cotuongup.synerworlds.com |
 | 🖼️ **Nonogram** (Picross) | Giải tranh logic bằng số: 3 kích cỡ bàn, 90 tranh đáp án duy nhất, puzzle mỗi ngày, đua phòng 2–4 người | https://nonogram.synerworlds.com |
+| ⚫ **Cờ Lật** (Reversi) | Lật quân ăn đất trên bàn 8×8 — luật Reversi chuẩn quốc tế, đấu máy 12 cấp, phòng online | https://reversi.synerworlds.com |
+| 🫘 **Mak Khom** | Trò rải hạt dân gian Thái Lan trên bàn thuyền: rải tiếp, rơi kho đi tiếp, ăn ô đối diện — đấu máy 12 cấp, phòng online | https://makkhom.synerworlds.com |
 | 🔮 **Xếp Bi** (Chroma Beads) | Xếp bi màu kinh điển trên bàn 9×9: xếp 5 bi cùng màu thành hàng, ván mới mỗi ngày, bảng xếp hạng và xuất video ván đấu | https://xepbi.synerworlds.com |
 | 🥭 **Xếp Trái Cây** (Tropi Pop) | Ghép 3 trái cây Việt Nam — thanh long, măng cụt, mãng cầu, sầu riêng, xoài, khế, dừa; 60 màn qua Chợ Nổi Cái Răng, Bến Tre, Bình Thuận và Phú Quốc | https://xeptraicay.synerworlds.com |
 
@@ -50,6 +52,8 @@ Song ngữ Việt–Anh · Chơi với máy 12 cấp độ · Mở phòng chơi 
 | ✖️ **Gomoku** | Five in a row on 10×10, 15×15 and 20×20 boards | https://cocaro.synerworlds.com |
 | 🃏 **Dark Xiangqi (Jieqi)** | Face-down xiangqi: pieces are only revealed when they first move | https://cotuongup.synerworlds.com |
 | 🖼️ **Nonogram** | Picture-logic puzzles: 3 board sizes, 90 verified unique-solution pictures, daily puzzles, 2–4 player races | https://nonogram.synerworlds.com |
+| ⚫ **Reversi** | Outflank and flip on the 8×8 board — standard international Reversi rules, 12-level AI, online rooms | https://reversi.synerworlds.com |
+| 🫘 **Mak Khom** | Thailand's folk seed-sowing game on a boat board: relay sowing, store bonuses and opposite-pit captures — 12-level AI, online rooms | https://makkhom.synerworlds.com |
 | 🔮 **Chroma Beads** | The classic colour-lines puzzle on a 9×9 board: line up five balls of a colour, with a daily board, leaderboards and replay video export | https://xepbi.synerworlds.com |
 | 🥭 **Tropi Pop** | Match-3 with seven Vietnamese tropical fruits; 60 levels touring the Cái Răng Floating Market, Bến Tre, Bình Thuận and Phú Quốc Island | https://xeptraicay.synerworlds.com |
 
