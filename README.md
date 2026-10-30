@@ -28,7 +28,7 @@ Song ngữ Việt–Anh · Chơi với máy 12 cấp độ · Mở phòng chơi 
 | ✖️ **Cờ Ca-rô** (Gomoku) | Nối 5 quân trên bàn ô ly 10×10, 15×15 và 20×20 | https://cocaro.synerworlds.com |
 | 🃏 **Cờ Úp** (Dark Xiangqi) | Cờ tướng úp kịch tính: quân úp chỉ lộ diện khi đi nước đầu tiên | https://cotuongup.synerworlds.com |
 | 🖼️ **Nonogram** (Picross) | Giải tranh logic bằng số: 3 kích cỡ bàn, 90 tranh đáp án duy nhất, puzzle mỗi ngày, đua phòng 2–4 người | https://nonogram.synerworlds.com |
-| 🔮 **Xếp Bi** (Chroma Beads) | Xếp bi màu kiểu Line 98 trên bàn 9×9: xếp 5 bi cùng màu thành hàng, ván mới mỗi ngày, bảng xếp hạng và xuất video ván đấu | https://xepbi.synerworlds.com |
+| 🔮 **Xếp Bi** (Chroma Beads) | Xếp bi màu kinh điển trên bàn 9×9: xếp 5 bi cùng màu thành hàng, ván mới mỗi ngày, bảng xếp hạng và xuất video ván đấu | https://xepbi.synerworlds.com |
 | 🥭 **Xếp Trái Cây** (Tropi Pop) | Ghép 3 trái cây Việt Nam — thanh long, măng cụt, mãng cầu, sầu riêng, xoài, khế, dừa; 60 màn qua Chợ Nổi Cái Răng, Bến Tre, Bình Thuận và Phú Quốc | https://xeptraicay.synerworlds.com |
 
 ## 🇬🇧 The games
